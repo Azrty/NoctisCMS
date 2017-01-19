@@ -1,7 +1,7 @@
 ### NoctisCMS
 
 ## L'Équipe
-* __tristanhonor (tristancode)__  - Gérant et Chef Développeur
-* __Sierra__  - Développeur Web en chef.
+* __tristanhonor (tristancode)__  - Gérant et Chef Développeurs
+* __Sierra__  - Gérant, Développeur Web en chef.
 
 ## Changelog

@@ -1,4 +1,3 @@
-http://vps110888.vps.ovh.ca/noctiscms/noctiscms_banner.png
 ![Logo](http://vps110888.vps.ovh.ca/noctiscms/noctiscms_banner.png "Logo")
 
 ## L'Équipe
